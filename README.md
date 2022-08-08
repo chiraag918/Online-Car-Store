@@ -5,7 +5,7 @@ An online car store created using HTML, CSS and Vanilla JS where users can brows
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Launch](#launch)
-* [Screenshots](#screenshot)
+* [Screenshots](#screenshots)
 
 ## General info
 This project focuses on developing an online car store, from where users can browse through different cars. There are two sections on the website, HOME and GALLERY. Both the sections are implemented using a single page and user can toggle between these sections, and appropriately they'll be displayed. The home page is the landing page of the application which defines what the business is about. The GALLERY section is where different cars available for purchasing are listed. Car images along with their names and pricing have been listed here. Users can add any car to the cart using the add to cart button. The cart menu has been implemented as a drop down menu, where each row corresponds to a cart item. Discounts from the brand and company are also included in each cart item. Users can change the quantity of the cart items either from the cart or from the gallery page, using the count input box. Users can remove items from the cart. Total price and the no. of elements in the cart will be calculated dynamically each time cart updates. The app layout is made responsive to work for different screen resolutions. The JS functionality of the website is achieved using DOM manipulation using DOM selectors.
