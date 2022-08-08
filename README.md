@@ -17,7 +17,7 @@ Project is created with:
 * Vanilla JS (Javascript ES6)
 	
 ## Launch
-To run this project, install it locally using npm:
+To run this project:
 
 ```
 * Clone the repository 
