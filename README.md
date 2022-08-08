@@ -36,4 +36,5 @@ CART SECTION
 <img width="1440" alt="Screenshot 2022-08-08 at 8 20 25 PM" src="https://user-images.githubusercontent.com/39455997/183452013-3d54ae9e-faac-43c1-9349-25fd1afcd015.png">
 
 RESPONSIVE SCREEN
+
 <img width="552" alt="Screenshot 2022-08-08 at 8 21 30 PM" src="https://user-images.githubusercontent.com/39455997/183452105-8685561b-47c9-4e7b-8ebc-3c5288f185b2.png">
